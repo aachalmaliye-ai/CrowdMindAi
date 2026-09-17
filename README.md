@@ -100,11 +100,3 @@ CrowdMind AI demonstrates several important algorithms and AI concepts:
 
 ---
 
-## 📂 Project Structure
-
-```text
-CrowdMind-AI/
-│
-├── app.py
-├── README.md
-└── requirements.txt
